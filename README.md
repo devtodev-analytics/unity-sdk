@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _April 30, 2020_ - [v2.12.9](https://github.com/devtodev-analytics/unity-sdk/releases/latest)
+##### _June 30, 2020_ - [v2.12.10](https://github.com/devtodev-analytics/unity-sdk/releases/latest)
 
 Getting Started
 ---------------
