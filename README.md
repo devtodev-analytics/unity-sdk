@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _October, 2021_ - [v2.13.7](https://github.com/devtodev-analytics/unity-sdk/releases/latest)
+##### _February, 2022_ - [v2.13.8](https://github.com/devtodev-analytics/unity-sdk/releases/latest)
 
 Getting Started
 ---------------
